@@ -7,9 +7,9 @@
 <p>Thank you to the original developers!</p>
 
 <div>
-  <img src="Moo Moo.io 2 Images/image 1" width=200px>
-  <img src="Moo Moo.io 2 Images/image 2" width=200px>
-  <img src="Moo Moo.io 2 Images/image 3" width=200px>
+  <img src="Moo Moo.io 2 Images/image 1.png" width=200px>
+  <img src="Moo Moo.io 2 Images/image 2.png" width=200px>
+  <img src="Moo Moo.io 2 Images/image 3.png" width=200px>
 </div>
 
 <p>Watch this to see my explanation of the game https://youtu.be/dNZqCbFilF4?si=t7bXrj9MVXCw63ay</p>
