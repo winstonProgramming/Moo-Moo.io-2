@@ -9,7 +9,7 @@
 <p>Watch this to see my explanation of the game https://youtu.be/dNZqCbFilF4?si=t7bXrj9MVXCw63ay</p>
 
 <div>
-  <img src="Moo Moo.io 2 Images/image 1.png" width=500px>
-  <img src="Moo Moo.io 2 Images/image 2.png" width=500px>
-  <img src="Moo Moo.io 2 Images/image 3.png" width=500px>
+  <img src="Moo Moo.io 2 Images/image 1.png" width=650px>
+  <img src="Moo Moo.io 2 Images/image 2.png" width=650px>
+  <img src="Moo Moo.io 2 Images/image 3.png" width=650px>
 </div>
